@@ -1,1 +1,2 @@
 K čemu slouží příkaz 'git fetch'?----slouží ke stahování nových dat ze vzdáleného úložiště, aniž je integruje do našich pracovních souborů.
+K čemu slouží příkaz 'git status' a co se z něho dá vyčíst---poskytuje informace o změněných souborech 
